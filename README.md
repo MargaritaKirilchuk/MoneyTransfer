@@ -10,7 +10,7 @@
 
 ## Результаты
 
-1. https://github.com/MargaritaKirilchuk/Money-Transfer/issues/1#issue-587977762
+1. https://github.com/MargaritaKirilchuk/MoneyTransfer/issues/1#issue-589559200
 
 ## Общие рекомендации
 
